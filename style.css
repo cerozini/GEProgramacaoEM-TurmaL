@@ -9,6 +9,16 @@ header, footer {
 
 }
 
+#imagemlogo{
+width: 200px;
+height:200px; 
+
+}
+nav li {
+list-style: none;
+
+}
+
 #imagemprincipal{
 	width: 95%;
 	height: 400px;
@@ -65,6 +75,4 @@ font-size: 40px;
  	font-size: 40px;
  }
  
- ul li::marker {
- 	content: "-";
- }
+ 
