@@ -14,8 +14,30 @@ width: 200px;
 height:200px; 
 
 }
+
+.menu{
+	position: absolute;
+    top: 60px;
+    right: 90px;
+}
+
+
 nav li {
 list-style: none;
+display: inline;
+margin-left: 50px;
+
+}
+
+
+
+nav a{
+
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 50px;
+	color: green;
+
 
 }
 
@@ -57,7 +79,7 @@ font-size: 40px;
  }
 
  .momentos {
- 	background-color: yellow;
+ 	background-color: orange;
  	padding: in;
  	margin: 10px;
  	border: black solid 2px;
